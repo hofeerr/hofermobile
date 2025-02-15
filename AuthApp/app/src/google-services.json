@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "836158025310",
+    "project_id": "mobilehofer-9899b",
+    "storage_bucket": "mobilehofer-9899b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836158025310:android:11814003d765ccefc5cecf",
+        "android_client_info": {
+          "package_name": "com.example.authapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "836158025310-bl6elcdt0taff61nmrmsq9ra8n5p8pp3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfKiW5r5W672Yj1mRl9EmXtfh2OJxD_Kw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "836158025310-bl6elcdt0taff61nmrmsq9ra8n5p8pp3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
